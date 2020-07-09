@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Rahul, a software developer by profession and an eager learner from the heart.
 
 It's great to have you here! Do checkout my latest activities and pinned repositories, gists! 
 
-About me?
+My introduction to the Computer Science field was made during my inquisitive childhood years, where I was curious to understand how my favorite 'fly-on click helicopter 🚁' game worked!
+
+Ever since then, I dreamt of diving deep into this field and here I am building scalable and optimized web portals.
 
 ```
-
-✨I can build scalable and optimized web portals✨
 
 ☝️ Primary Skills
 React.JS, Lit-Element.JS, Node.JS,  ES6+,  MongoDB, SQL, HTML, CSS
