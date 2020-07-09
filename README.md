@@ -15,7 +15,7 @@ React.JS, Lit-Element.JS, Node.JS,  ES6+,  MongoDB, SQL, HTML, CSS
 Progressive Web Apps, Service Workers, Webpack, Redux, Socket.io, Git, Bootstrap, Material UI, Semantic UI
 
 👨‍💻 Deployment / Pipeline Tools
-Heroku, CodeShip, Bitbucket Pipelines
+Heroku, CodeShip, Github, Bitbucket Pipelines
 
 📝 Task Management & Communication Tools
 Trello, JIRA, Slack, Microsoft Teams
