@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rahul, a software developer by profession and an eager learner from the heart.
+### Hi there 👋, I'm Rahul, a Software Developer by profession and an eager learner from the heart.
 
 It's great to have you here! Do checkout my latest activities and pinned repositories, gists! 
 
