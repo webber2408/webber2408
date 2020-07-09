@@ -7,7 +7,6 @@ My introduction to the Computer Science field was made during my inquisitive chi
 Ever since then, I dreamt of diving deep into this field and here I am building scalable and optimized web portals.
 
 ```
-
 ☝️ Primary Skills
 React.JS, Lit-Element.JS, Node.JS,  ES6+,  MongoDB, SQL, HTML, CSS
 
@@ -28,5 +27,4 @@ Eager Learner, Team Player, Positive Attitude, Honest
 
 👎Weakness
 Sometimes I am unable to express my thoughts 🤔, Always thinking about building MVPs
-
 ```
