@@ -4,7 +4,7 @@ It's great to have you here! Do checkout my latest activities and pinned reposit
 
 My introduction to the Computer Science field was made during my inquisitive childhood years, where I was curious to understand how my favorite 'fly-on click helicopter 🚁' game worked!
 
-Ever since then, I dreamt of diving deep into this field and here I am building scalable and optimized web portals.
+Ever since then, I dreamt of diving deep into this field and here I am building scalable and optimized web portals. If you want to know more, https://rsharma.in is not far away!
 
 ```
 ☝️ Primary Skills
